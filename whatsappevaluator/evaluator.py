@@ -4,7 +4,6 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 import re
-import numpy as np
 import emoji as emoji
 
 
